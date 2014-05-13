@@ -68,7 +68,7 @@
 		"outputAbbreviatedPath": "\/bootstrap\/js\/min\/application-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/bootstrap\/js\/application.js": {
@@ -79,7 +79,7 @@
 		"outputAbbreviatedPath": "\/bootstrap\/js\/min\/application-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/bootstrap\/js\/google-code-prettify\/prettify-ck.js": {
@@ -90,7 +90,7 @@
 		"outputAbbreviatedPath": "\/bootstrap\/js\/google-code-prettify\/min\/prettify-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/bootstrap\/js\/google-code-prettify\/prettify.js": {
@@ -101,7 +101,7 @@
 		"outputAbbreviatedPath": "\/bootstrap\/js\/google-code-prettify\/min\/prettify-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/bootstrap\/js\/holder-ck.js": {
@@ -112,7 +112,7 @@
 		"outputAbbreviatedPath": "\/bootstrap\/js\/min\/holder-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/bootstrap\/js\/holder.js": {
@@ -123,7 +123,7 @@
 		"outputAbbreviatedPath": "\/bootstrap\/js\/min\/holder-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/flat-ui.css": {
@@ -744,7 +744,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/application-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/application.js": {
@@ -755,7 +755,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/application-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/bootstrap-select-ck.js": {
@@ -766,7 +766,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/bootstrap-select-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/bootstrap-select.js": {
@@ -777,7 +777,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/bootstrap-select-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/bootstrap-switch-ck.js": {
@@ -788,7 +788,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/bootstrap-switch-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/bootstrap-switch.js": {
@@ -799,7 +799,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/bootstrap-switch-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/bootstrap.min-ck.js": {
@@ -810,7 +810,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/bootstrap.min-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/bootstrap.min.js": {
@@ -821,7 +821,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/bootstrap.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/flatui-checkbox-ck.js": {
@@ -832,7 +832,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/flatui-checkbox-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/flatui-checkbox.js": {
@@ -843,7 +843,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/flatui-checkbox-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/flatui-radio-ck.js": {
@@ -854,7 +854,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/flatui-radio-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/flatui-radio.js": {
@@ -865,7 +865,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/flatui-radio-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/html5shiv-ck.js": {
@@ -876,7 +876,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/html5shiv-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/html5shiv.js": {
@@ -887,7 +887,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/html5shiv-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/icon-font-ie7-ck.js": {
@@ -898,7 +898,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/icon-font-ie7-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/icon-font-ie7.js": {
@@ -909,7 +909,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/icon-font-ie7-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery-1.8.3.min-ck.js": {
@@ -920,7 +920,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery-1.8.3.min-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery-1.8.3.min.js": {
@@ -931,7 +931,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery-1.8.3.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery-ui-1.10.3.custom.min-ck.js": {
@@ -942,7 +942,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery-ui-1.10.3.custom.min-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery-ui-1.10.3.custom.min.js": {
@@ -953,7 +953,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery-ui-1.10.3.custom.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.placeholder-ck.js": {
@@ -964,7 +964,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.placeholder-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.placeholder.js": {
@@ -975,7 +975,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.placeholder-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.stacktable-ck.js": {
@@ -986,7 +986,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.stacktable-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.stacktable.js": {
@@ -997,7 +997,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.stacktable-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.tagsinput-ck.js": {
@@ -1008,7 +1008,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.tagsinput-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.tagsinput.js": {
@@ -1019,7 +1019,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.tagsinput-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.ui.touch-punch.min-ck.js": {
@@ -1030,7 +1030,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.ui.touch-punch.min-ck-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/jquery.ui.touch-punch.min.js": {
@@ -1041,7 +1041,7 @@
 		"outputAbbreviatedPath": "\/js\/min\/jquery.ui.touch-punch.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/less\/config.css": {
@@ -1054,8 +1054,8 @@
 		"outputPathIsSetByUser": 0
 		},
 	"\/less\/config.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1074,8 +1074,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/flat-ui.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1094,8 +1094,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/icon-font.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1114,8 +1114,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/mixins.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1134,8 +1134,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/alerts.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1154,8 +1154,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/bottom.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1174,8 +1174,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/breadcrumbs.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1194,8 +1194,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/buttons.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1214,8 +1214,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/caret.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1234,8 +1234,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/checkbox-and-radio.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1254,8 +1254,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/demo.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1274,8 +1274,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/dialog.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1294,8 +1294,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/dropdown.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1314,8 +1314,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/iconbar.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1334,8 +1334,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/input.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1354,8 +1354,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/label-badges.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1374,8 +1374,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/nav.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1394,8 +1394,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/navbar.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1414,8 +1414,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/pager.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1434,8 +1434,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/pagination.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1454,8 +1454,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/popover.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1474,8 +1474,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/progress.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1494,8 +1494,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/select.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1514,8 +1514,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/switch.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1534,8 +1534,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/tables.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1554,8 +1554,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/tagsinput.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1574,8 +1574,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/tooltip.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1594,8 +1594,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/type.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1614,8 +1614,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/ui-datepicker.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1634,8 +1634,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/ui-slider.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1654,8 +1654,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/modules\/ui-spinner.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1674,8 +1674,8 @@
 		"strictUnits": 0
 		},
 	"\/less\/spaces.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
+		"allowInsecureImports": 1,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
@@ -1737,7 +1737,7 @@
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
 	"coffeeAutoOutputPathStyle": 0,
-	"coffeeCreateSourceMap": 0,
+	"coffeeCreateSourceMap": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
 			"active": 0,
@@ -1836,7 +1836,7 @@
 			"flagValue": -1
 			}
 		},
-	"coffeeMinifyOutput": 1,
+	"coffeeMinifyOutput": 0,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
 	"externalServerAddress": "http:\/\/localhost:8888",
@@ -1864,21 +1864,21 @@
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 2,
 	"javascriptCreateSourceMap": 1,
-	"javascriptOutputStyle": 1,
+	"javascriptOutputStyle": 0,
 	"javascriptOutputSuffix": "-ck",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
 		"asi": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"bitwise": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"boss": {
+		"bitwise": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"browser": {
@@ -1894,11 +1894,11 @@
 			"flagValue": -1
 			},
 		"curly": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"debug": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"devel": {
@@ -1910,11 +1910,11 @@
 			"flagValue": -1
 			},
 		"eqeqeq": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqnull": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"es3": {
@@ -1922,15 +1922,15 @@
 			"flagValue": -1
 			},
 		"esnext": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"evil": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"expr": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"forin": {
@@ -1938,11 +1938,11 @@
 			"flagValue": -1
 			},
 		"freeze": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"funcscope": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"gcl": {
@@ -1950,7 +1950,7 @@
 			"flagValue": -1
 			},
 		"globalstrict": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"immed": {
@@ -1962,7 +1962,7 @@
 			"flagValue": 4
 			},
 		"iterator": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"jquery": {
@@ -1970,23 +1970,23 @@
 			"flagValue": -1
 			},
 		"lastsemic": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"latedef": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"laxbreak": {
+		"latedef": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"laxcomma": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"loopfunc": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"maxcomplexity": {
@@ -2014,19 +2014,19 @@
 			"flagValue": -1
 			},
 		"moz": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"multistr": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"newcap": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noarg": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
@@ -2042,7 +2042,7 @@
 			"flagValue": -1
 			},
 		"nonew": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"nonstandard": {
@@ -2050,7 +2050,7 @@
 			"flagValue": -1
 			},
 		"notypeof": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noyield": {
@@ -2058,11 +2058,11 @@
 			"flagValue": -1
 			},
 		"onecase": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"onevar": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"phantom": {
@@ -2074,7 +2074,7 @@
 			"flagValue": -1
 			},
 		"proto": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"prototypejs": {
@@ -2082,7 +2082,7 @@
 			"flagValue": -1
 			},
 		"regexp": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"rhino": {
@@ -2090,11 +2090,11 @@
 			"flagValue": -1
 			},
 		"scripturl": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"shadow": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"shelljs": {
@@ -2102,7 +2102,7 @@
 			"flagValue": -1
 			},
 		"smarttabs": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"strict": {
@@ -2110,15 +2110,15 @@
 			"flagValue": -1
 			},
 		"sub": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"supernew": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"trailing": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"typed": {
@@ -2126,7 +2126,7 @@
 			"flagValue": -1
 			},
 		"undef": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"unused": {
@@ -2264,12 +2264,12 @@
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
-	"lessAllowInsecureImports": 0,
+	"lessAllowInsecureImports": 1,
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
 	"lessAutoOutputPathStyle": 2,
-	"lessCreateSourceMap": 0,
+	"lessCreateSourceMap": 1,
 	"lessDisableJavascript": 0,
 	"lessIeCompatibility": 1,
 	"lessOutputStyle": 0,
@@ -2294,7 +2294,7 @@
 	"sassDecimalPrecision": 5,
 	"sassOutputStyle": 0,
 	"sassUseLibsass": 0,
-	"shouldRunAutoprefixer": 0,
+	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 0,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
 	"slimAutoOutputPathRelativePath": "",
