@@ -8,20 +8,26 @@
 //
 // Color Swatches
 // --------------------------------------------------
-@turquoise:     #1abc9c;
-@green-sea:     #16a085;
 
-@emerland:      #2ecc71;
-@nephritis:     #27ae60;
+@chartreuse:    #23a6ff;//#C9E177; // PRIMARY, aka FIRM
+@alexgray:      #53575C; // dark gray
+@naranja:       #dd7a2d;
 
-@peter-river:   #3498db;
-@belize-hole:   #2980b9;
+// @turquoise:     
+@turquoise: @chartreuse;  // #1ABC9C
+@green-sea: darken(@chartreuse, 50%);  // #16a085; // darkturquise
 
-@amethyst:      #9b59b6;
-@wisteria:      #8e44ad;
+@emerland:      #2ecc71; // kelly
+@nephritis:     #27ae60; // darkkelly
 
-@wet-asphalt:   #34495e;
-@midnight-blue: #2c3e50;
+@peter-river:   #3498db; // royal
+@belize-hole:   #2980b9; // darkroyal
+
+@amethyst:      #9b59b6; // purple
+@wisteria:      #8e44ad; // dpuprle
+
+@wet-asphalt:   @alexgray; // #34495e;
+@midnight-blue: lighten(@alexgray,40%);// #2c3e50;
 
 @sun-flower:    #f1c40f;
 @orange:        #f39c12;
@@ -41,8 +47,8 @@
 //
 // Main Colors
 // -------------------------
-@base:             @wet-asphalt;
-@firm:             @turquoise;
+@base:            @wet-asphalt;
+@firm:            @turquoise; // @chartreuse;
 
 @gray:             @concrete;
 @lightgray:        @silver;
@@ -54,21 +60,21 @@
 @info:             @peter-river;
 
 @link-color:       @green-sea;
-@link-hover-color: @turquoise;
+@link-hover-color: @chartreuse; //@turquoise;
 
 // Typography
 // -------------------------
 @base-font-family: "Lato", sans-serif;
 @base-font-size: 14px;
-@base-line-height: 1.231;
+@base-line-height: 1;//1.231;
 
 // Headings
-@h1: @base-font-size * 4.429; /* 62px */
-@h2: @base-font-size * 3.714; /* 52px */
-@h3: @base-font-size * 2.857; /* 40px */
-@h4: @base-font-size * 2.071; /* 29px */
-@h5: @base-font-size * 2;     /* 28px */
-@h6: @base-font-size * 1.714; /* 24px */
+@h1: @base-font-size * 4;//4.429; /* 62px */
+@h2: @base-font-size * 3;//3.714; /* 52px */
+@h3: @base-font-size * 2.5;//2.857; /* 40px */
+@h4: @base-font-size * 2;//2.071; /* 29px */
+@h5: @base-font-size * 1.5;//2;     /* 28px */
+@h6: @base-font-size * 1;//1.714; /* 24px */
 
 // Icons
 @icon-normal: 16px;
