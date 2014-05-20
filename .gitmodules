@@ -1,0 +1,3 @@
+[submodule "UI/modules/viewport-slider"]
+	path = UI/modules/viewport-slider
+	url = https://github.com/mralexgray/viewport-slider.git
