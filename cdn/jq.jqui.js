@@ -9194,7 +9194,7 @@ $(function(){
 
 	loadAssets = function(paths) {
 
-		(isArray(paths) ? paths : [paths]).forEach(function(x){
+		(paths.isArray() ? paths : [paths]).forEach(function(x){
 
 			var ext    = path.split('.').pop().toLowerCase()
       $("head").append(ext == "css" ? $("<link rel='stylesheet' type='text/css' href='"+path+"'>")
