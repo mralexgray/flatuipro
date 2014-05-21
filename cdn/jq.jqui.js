@@ -9202,7 +9202,7 @@ $(function(){
 		})
   }
 
-  loadAssets("../UI/bootstrap/css/bootstrap.css", "../UI/bootstrap/css/bootstrap-responsive.css","../UI/css/flat-ui.css"])
+  loadAssets(["../UI/bootstrap/css/bootstrap.css", "../UI/bootstrap/css/bootstrap-responsive.css","../UI/css/flat-ui.css"])
 	
 	$(window).load(function(){	//initialize after images are loaded
 
