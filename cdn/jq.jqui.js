@@ -9196,9 +9196,9 @@ $(function(){
 
 		[].concat(paths).forEach(function(x){
 
-			var ext    = path.split('.').pop().toLowerCase()
-      $("head").append(ext == "css" ? $("<link rel='stylesheet' type='text/css' href='"+path+"'>")
-                                    : $("<script type='text/javascript' src='"+path+"'>"))
+			var ext    = x.split('.').pop().toLowerCase()
+      $("head").append(ext == "css" ? $("<link rel='stylesheet' type='text/css' href='"+x+"'>")
+                                    : $("<script type='text/javascript' src='"+x+"'>"))
 		})
   }
 
