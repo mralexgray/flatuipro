@@ -1,3 +1,3 @@
-@import "//flatui/bootstrap/css/bootstrap.css";
-@import "//flatui/bootstrap/css/bootstrap-responsive.css";
-@import "//flatui/css/flat-ui.css";
+@import "../UI/bootstrap/css/bootstrap.css";
+@import "../UI/bootstrap/css/bootstrap-responsive.css";
+@import "../UI/css/flat-ui.css";
