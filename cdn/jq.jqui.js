@@ -9209,7 +9209,7 @@ $(function(){
   	loadAssets(		
 
 			["jquery.ui.touch-punch.min","bootstrap.min","bootstrap-select.js","bootstrap-switch","flatui-checkbox","flatui-radio","jquery.tagsinput","jquery.placeholder", "jquery.stacktable", "application"]
-				.map(function(js){ return "js/" + js + ".js"; })
+				.map(function(js){ var concat = "js/" + js + ".js"; console.log(concat); return concat; })
 			)
 	});
 
